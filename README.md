@@ -42,7 +42,7 @@
       
       <h1><u>Mohamad Moheb</u></h1>
 
-      <p class="title">Student @RHHS Saida</p>
+      <p class="title">Terminal Student @RHHS Saida</p>
 
       <p>
           <h2><u>Personal Info:</u></h2>
