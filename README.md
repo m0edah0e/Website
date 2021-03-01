@@ -80,7 +80,7 @@
           <br> Pronouns: He/Him
           <br> Age: 18 (02/12/2002)
           <br> Nationality: Lebanese
-          <br> LSE Student @RHHS Saida
+          <br> SE Student @RHHS Saida
           <br> Languages: Arabic / English
           <br> Phone Number: +961 71524293
           <br> CS Hobbies: Game Development
