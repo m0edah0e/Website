@@ -1,4 +1,6 @@
 <html>
+  <head> 
+  </head>
   <title> Personal Website</title>
   <style>
     .card {
@@ -16,12 +18,14 @@
       padding: 10px;
     }
     
-    .bands {
+    .currentfavoritesongs {
       color: #3700B3;
+      line-height: 1.5
     }
 
     .personalinfo {
       color: black;
+      line-height: 1.25
     }
 
     body {
@@ -53,7 +57,6 @@
         style="width: 70%;">
 
     <div class="personalinfo">
-      <p>
           <h1><u>Mohamad Moheb</u></h1>
           <h2><u>Personal Info:</u></h2>
           <b> Pronouns: He/Him
@@ -62,13 +65,12 @@
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
           <br> Current Favorite Songs:
-          <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="bands" target="_blank">(Don't Fear) The Reaper</a></u>
-          <br>  <u><a href="https://www.youtube.com/user/Akon" class="bands" target="_blank">Akon</a></u>
-          <br>  <u><a href="https://www.youtube.com/channel/UCX2_tsfS1lWaNg26UUuWrxA" class="bands" target="_blank">Greta Van Fleet</a></u>
-          <br>  <u><a href="https://www.youtube.com/user/cagetheelephant" class="bands" target="_blank">Cage The Elephant</a></u>
-          <br>  <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" class="bands" target="_blank">Red Hot Chili Peppers</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="currentfavoritesongs" target="_blank">The Weeknd - False Alarm</a></u>
+          <br>  <u><a href="https://www.youtube.com/user/Akon" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - Encore</a></u>
+          <br>  <u><a href="https://www.youtube.com/channel/UCX2_tsfS1lWaNg26UUuWrxA" class="currentfavoritesongs" target="_blank">Greta Van Fleet - Black Smoke Rising</a></u>
+          <br>  <u><a href="https://www.youtube.com/user/cagetheelephant" class="currentfavoritesongs" target="_blank">Cage The Elephant - Cigarette Daydreams</a></u>
+          <br>  <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" class="currentfavoritesongs" target="_blank">Blue Oyster Cult - (Don't Fear) The Reaper</a></u>
           </b>
-      </p>
 
       <form action="https://github.com/m0edah0e" method="get" target="_blank">
         <button type="submit">Github</button>
@@ -86,3 +88,5 @@
         <button type="submit">Email</button>
       </form>
     </div>
+  </body>
+</html>
