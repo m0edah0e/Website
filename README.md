@@ -19,9 +19,8 @@
     }
 
     .circular--square {
-      padding: 20px;
+      margin-top: 10px;
       border-radius: 50%;
-      border-color: #018786
     }
 
     .personalinfotitle {
@@ -116,5 +115,3 @@
         <button type="submit">Email</button>
       </form>
     </div> 
-  </body>
-</html>
