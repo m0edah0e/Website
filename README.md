@@ -14,6 +14,7 @@
 
     .name {
       font-size: 40px;
+      color: black;
     }
     .circular--square {
       border-radius: 50%;
@@ -104,5 +105,3 @@
         <button type="submit">Email</button>
       </form>
     </div>
-  </body>
-</html>
