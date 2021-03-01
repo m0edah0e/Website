@@ -63,7 +63,7 @@
   <body>
     <div class="card">
       <img class="circular--square"
-        src="https://i.ibb.co/MCWSgfh/square.jpg"
+        src="https://pbs.twimg.com/profile_images/1365295537340243971/yglMGwTZ_400x400.jpg"
         alt="Mohamad Moheb"
         style="width: 70%;">
 
