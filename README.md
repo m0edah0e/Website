@@ -19,7 +19,7 @@
 
     .circular--square {
       border-radius: 50%;
-      padding: 10px;
+      padding: 20px;
     }
 
     .personalinfotitle {
@@ -83,10 +83,10 @@
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
           <br> Current Favorite Songs:
-          <br>  <u><a href="https://www.youtube.com/watch?v=u6lihZAcy4s&ab_channel=TheWeekndVEVO" class="currentfavoritesongs" target="_blank">The Weeknd - Save Your Tears</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=pTOC_q0NLTk&ab_channel=LumineersVEVO" class="currentfavoritesongs" target="_blank">The Lumineers - Ophelia</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=XXYlFuWEuKI&ab_channel=TheWeekndVEVO" class="currentfavoritesongs" target="_blank">The Weeknd - Save Your Tears</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=I2XfVml6o24&ab_channel=RedHotChiliPeppers" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - Sick Love</a></u>
-          <br>  <u><a href="https://www.youtube.com/watch?v=8cepUUKMp1g&ab_channel=GretaVanFleet-Topic" class="currentfavoritesongs" target="_blank">Greta Van Fleet - Black Smoke Rising</a></u>
-          <br>  <u><a href="https://www.youtube.com/watch?v=vAu4WIK-VfM&ab_channel=BrettVanderzanden" class="currentfavoritesongs" target="_blank">Cage The Elephant - Cigarette Daydreams</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=86_vnQc1oBE&ab_channel=GretaVanFleetGretaVanFleetOfficialArtistChannel" class="currentfavoritesongs" target="_blank">Greta Van Fleet - When The Curtain Falls</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="currentfavoritesongs" target="_blank">Blue Oyster Cult - (Don't Fear) The Reaper</a></u>
           <br> <u><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" class="currentfavoritesongs" target="_blank">‎‎</a></u>
         </b>
@@ -100,8 +100,8 @@
       <form action="https://twitter.com/m0edah0e" method="get" target="_blank">
         <button type="submit">Twitter</button>
       </form>
-      <form action="https://stackoverflow.com/users/14022101/m0edah0e" method="get" target="_blank">
-        <button type="submit">Stack Overflow</button>
+      <form action="https://steamcommunity.com/id/m0edah0e" method="get" target="_blank">
+        <button type="submit">Steam</button>
       </form>
       <form action="mailto:m0edah0e212@gmail.com" method="get" target="_blank">
         <button type="submit">Email</button>
