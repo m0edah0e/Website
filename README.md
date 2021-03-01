@@ -1,4 +1,5 @@
- <title> Personal Website</title>
+<html>
+  <title> Personal Website</title>
   <style>
     .card {
       border: double;
@@ -55,7 +56,7 @@
 
     <div class="personalinfo">
           <h1><u>Mohamad Moheb</u></h1>
-          <h2><u>Personal Info:</u></h2>
+          <u>Personal Info:</u>
           <b> Pronouns: He/Him
           <br> Age: 18 (02/12/2002)
           <br> Nationality: Lebanese
