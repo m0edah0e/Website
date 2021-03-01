@@ -19,6 +19,7 @@
     }
 
     .circular--square {
+      padding: 20px;
       border-radius: 50%;
       border-color: #018786
     }
@@ -115,3 +116,5 @@
         <button type="submit">Email</button>
       </form>
     </div> 
+  </body>
+</html>
