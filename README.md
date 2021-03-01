@@ -91,14 +91,14 @@
           <br>  <u><a href="https://www.youtube.com/watch?v=8GAylAoRR2A&ab_channel=wearyoldman" class="currentfavoritesongs" target="_blank">‎‎</a></u>
         </b>
 
-      <form action="https://github.com/m0edah0e" method="get" target="_blank">
-        <button type="submit">Github</button>
-      </form>
       <form action="https://www.instagram.com/m0edah0e/" method="get" target="_blank">
         <button type="submit">Instagram</button>
       </form>
       <form action="https://twitter.com/m0edah0e" method="get" target="_blank">
         <button type="submit">Twitter</button>
+      </form>
+      <form action="https://github.com/m0edah0e" method="get" target="_blank">
+        <button type="submit">Github</button>
       </form>
       <form action="https://stackoverflow.com/users/14022101/m0edah0e" method="get" target="_blank">
         <button type="submit">StackOverflow</button>
