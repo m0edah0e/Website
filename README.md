@@ -88,7 +88,7 @@
           <br>  <u><a href="https://www.youtube.com/watch?v=lA-gGl6qihQ&ab_channel=CageTheElephantVEVO" class="currentfavoritesongs" target="_blank">Cage The Elephant - Trouble</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=YXdOAUKCc0k&ab_channel=RedHotChiliPeppers" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - By The Way</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=86_vnQc1oBE&ab_channel=GretaVanFleetGretaVanFleetOfficialArtistChannel" class="currentfavoritesongs" target="_blank">Greta Van Fleet - When The Curtain Falls</a></u>
-          <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="currentfavoritesongs" target="_blank">Blue Oyster Cult - (Don't Fear) The Reaper</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="currentfavoritesongs" target="_blank">Blue Öyster Cult - (Don't Fear) The Reaper</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=8GAylAoRR2A&ab_channel=wearyoldman" class="currentfavoritesongs" target="_blank">‎‎</a></u>
         </b>
 
