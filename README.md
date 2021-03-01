@@ -4,6 +4,7 @@
     .card {
       border: double;
       border-radius: 1%;
+      border-color: none;
       box-shadow: 0 0px 50px 25px #ad72f7;
       max-width: 400px;
       margin: auto;
@@ -19,7 +20,7 @@
 
     .circular--square {
       border-radius: 50%;
-      padding: 5px;
+      padding: 20px;
     }
 
     .personalinfotitle {
@@ -68,7 +69,7 @@
   <body>
     <div class="card">
       <img class="circular--square"
-        src="https://pbs.twimg.com/profile_images/1365295537340243971/yglMGwTZ_400x400.jpg"
+        src="https://i.ibb.co/wNXVmNv/Whats-App-Image-2021-03-01-at-8-11-23-PM.jpg" alt="Whats-App-Image-2021-03-01-at-8-11-23-PM"
         alt="Mohamad Moheb"
         style="width: 70%;">
 
@@ -82,6 +83,7 @@
 
     <div class="personalinfo">
           <b>
+          <br><u>I'm the one on the right</u> 
           <br> Pronouns: He/Him
           <br> Age: 18 (02/12/2002)
           <br> Nationality: Lebanese
