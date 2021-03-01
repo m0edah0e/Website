@@ -16,8 +16,11 @@
     .circular--square {
       border-radius: 50%;
       padding: 10px;
-
 }
+    .bands {
+      color: black;
+    }
+
     body {
   background-color: whitesmoke;
   }
@@ -45,10 +48,9 @@
         src="https://i.ibb.co/MCWSgfh/square.jpg"
         alt="Mohamad Moheb"
         style="width: 70%;">
-      
-      <h1><u>Mohamad Moheb</u></h1>
-
+ 
       <p>
+          <h1><u>Mohamad Moheb</u></h1>
           <h2><u>Personal Info:</u></h2>
           <b> Pronouns: He/Him
           <br> Age: 18 (02/12/2002)
@@ -56,11 +58,11 @@
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
           <br> Favorite Music Bands:
-          <br>  <u><a href="https://www.youtube.com/user/muse" target="_blank">Muse</a></u>
-          <br>  <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" target="_blank">Akon</a></u>
-          <br>  <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" target="_blank">Greta Van Fleet</a></u>
-          <br>  <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" target="_blank">Cage The Elephant</a></u>
-          <br>  <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" target="_blank">Red Hot Chili Peppers</a></u>
+          <br>  <u><a href="https://www.youtube.com/user/muse" class="bands" target="_blank">Muse</a></u>
+          <br>  <u><a href="https://www.youtube.com/user/Akon" class="bands" target="_blank" color: #212121; >Akon</a></u>
+          <br>  <u><a href="https://www.youtube.com/channel/UCX2_tsfS1lWaNg26UUuWrxA" class="bands" target="_blank">Greta Van Fleet</a></u>
+          <br>  <u><a href="https://www.youtube.com/user/cagetheelephant" class="bands" target="_blank">Cage The Elephant</a></u>
+          <br>  <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" class="bands" target="_blank">Red Hot Chili Peppers</a></u>
           </b>
       </p>
 
