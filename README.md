@@ -19,6 +19,7 @@
     }
 
     .circular--square {
+      margin-top: 10px;
       border-radius: 50%;
     }
 
