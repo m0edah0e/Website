@@ -20,6 +20,7 @@
     .circular--square {
       border-radius: 50%;
       padding: 5px;
+      border-color: #212121;
     }
 
     .personalinfotitle {
