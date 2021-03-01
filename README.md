@@ -11,19 +11,23 @@
       font-family: arial;
       background-color: #018786
     }
+
+    .name {
+      font-size: 40px;
+    }
     .circular--square {
       border-radius: 50%;
       padding: 10px;
-    }
-    
-    .currentfavoritesongs {
-      color: #3700B3;
-      line-height: 1.5
     }
 
     .personalinfo {
       color: black;
       line-height: 1.25
+    }
+
+    .currentfavoritesongs {
+      color: #3700B3;
+      line-height: 1.5
     }
 
     body {
@@ -47,6 +51,8 @@
       opacity: 0.5;
     }
   </style>
+
+
   <body>
     <div class="card">
       <img class="circular--square"
@@ -54,9 +60,12 @@
         alt="Mohamad Moheb"
         style="width: 70%;">
 
+    <div class="name">
+      Mohamad Moheb
+    </div>
+
     <div class="personalinfo">
-          <h1><u>Mohamad Moheb</u></h1>
-          <u><b>Personal Info:</u>
+          <u><b><br>Personal Info:</u>
           <br>
           <br> Pronouns: He/Him
           <br> Age: 18 (02/12/2002)
