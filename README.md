@@ -5,7 +5,7 @@
       border: double;
       border-radius: 1%;
       border-color: none;
-      box-shadow: 0 0px 40px 15px #e6007E;
+      box-shadow: 0 0px 40px 15px grey;
       max-width: 400px;
       margin: auto;
       text-align: center;
