@@ -59,7 +59,7 @@
           <br> Phone Number: +961 71524293
           <br> Favorite Music Bands:
           <br> <u><a href="https://www.youtube.com/user/muse" class="bands" target="_blank">Muse</a></u>
-          <br> <u><a href="https://www.youtube.com/user/Akon" class="bands" target="_blank" color: #212121; >Akon</a></u>
+          <br> <u><a href="https://www.youtube.com/user/Akon" class="bands" target="_blank">Akon</a></u>
           <br> <u><a href="https://www.youtube.com/channel/UCX2_tsfS1lWaNg26UUuWrxA" class="bands" target="_blank">Greta Van Fleet</a></u>
           <br> <u><a href="https://www.youtube.com/user/cagetheelephant" class="bands" target="_blank">Cage The Elephant</a></u>
           <br> <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" class="bands" target="_blank">Red Hot Chili Peppers</a></u>
