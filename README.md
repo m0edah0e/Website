@@ -1,6 +1,4 @@
 <html>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
   <title> Personal Website</title>
   <style>
     .card {
@@ -21,7 +19,7 @@
 
     .circular--square {
       border-radius: 50%;
-      padding: 20px;
+      padding: 5px;
     }
 
     .personalinfotitle {
