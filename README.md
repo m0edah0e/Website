@@ -1,7 +1,4 @@
-<html>
-  <head> 
-  </head>
-  <title> Personal Website</title>
+ <title> Personal Website</title>
   <style>
     .card {
       border: double;
@@ -88,5 +85,3 @@
         <button type="submit">Email</button>
       </form>
     </div>
-  </body>
-</html>
