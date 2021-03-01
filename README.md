@@ -20,6 +20,7 @@
 
     .circular--square {
       border-radius: 50%;
+      border-color: #018786
       padding: 20px;
     }
 
