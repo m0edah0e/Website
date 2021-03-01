@@ -4,7 +4,7 @@
     .card {
       border: double;
       border-radius: 1%;
-      box-shadow: 0 0px 50px 20px #ad72f7;
+      box-shadow: 0 0px 50px 25px #ad72f7;
       max-width: 400px;
       margin: auto;
       text-align: center;
@@ -20,6 +20,11 @@
       padding: 10px;
     }
 
+    .personalinfotitle {
+      color: black;
+      font-size: 35px;
+      padding: 20px;
+    }
     .personalinfo {
       color: black;
       line-height: 1.25
@@ -63,10 +68,13 @@
     <div class="name">
       Mohamad Moheb
     </div>
+    
+    <div class="personalinfotitle">
+      Personal Info:
+    </div>
 
     <div class="personalinfo">
-          <u><b><br>Personal Info:</u>
-          <br>
+          <b>
           <br> Pronouns: He/Him
           <br> Age: 18 (02/12/2002)
           <br> Nationality: Lebanese
@@ -96,3 +104,5 @@
         <button type="submit">Email</button>
       </form>
     </div>
+  </body>
+</html>
