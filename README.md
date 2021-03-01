@@ -10,7 +10,7 @@
       margin: auto;
       text-align: center;
       font-family: arial;
-      background-color: grey
+      background-color: #F6F6F7
     }
 
     .name {
