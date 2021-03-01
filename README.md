@@ -82,6 +82,7 @@
           <br> Nationality: Lebanese
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
+          <br> CS Hobbies: Game Development
           <br> Current Favorite Songs:
           <br>  <u><a href="https://www.youtube.com/watch?v=jBhbgZYz7pI&ab_channel=TheWeeknd-Topic" class="currentfavoritesongs" target="_blank">The Weeknd - False Alarm</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=63xPXEB4fjA&ab_channel=RedHotChiliPeppers-Topic" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - Encore</a></u>
