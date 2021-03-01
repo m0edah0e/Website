@@ -85,7 +85,7 @@
           <br> Current Favorite Songs:
           <br>  <u><a href="https://www.youtube.com/watch?v=pTOC_q0NLTk&ab_channel=LumineersVEVO" class="currentfavoritesongs" target="_blank">The Lumineers - Ophelia</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=XXYlFuWEuKI&ab_channel=TheWeekndVEVO" class="currentfavoritesongs" target="_blank">The Weeknd - Save Your Tears</a></u>
-          <br>  <u><a href="https://www.youtube.com/watch?v=I2XfVml6o24&ab_channel=RedHotChiliPeppers" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - Sick Love</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=YXdOAUKCc0k&ab_channel=RedHotChiliPeppers" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - By The Way</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=86_vnQc1oBE&ab_channel=GretaVanFleetGretaVanFleetOfficialArtistChannel" class="currentfavoritesongs" target="_blank">Greta Van Fleet - When The Curtain Falls</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=8GAylAoRR2A&ab_channel=wearyoldman" class="currentfavoritesongs" target="_blank">Blue Oyster Cult - (Don't Fear) The Reaper</a></u>
           <br> <u><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" class="currentfavoritesongs" target="_blank">‎‎</a></u>
