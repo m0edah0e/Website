@@ -1,6 +1,4 @@
 <html>
-  <head> 
-  </head>
   <title> Personal Website</title>
   <style>
     .card {
