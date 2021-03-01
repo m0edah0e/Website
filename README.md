@@ -16,8 +16,13 @@
     .circular--square {
       border-radius: 50%;
       padding: 10px;
-}
+    }
+    
     .bands {
+      color: #3700B3;
+    }
+
+    .personalinfo {
       color: black;
     }
 
@@ -48,7 +53,8 @@
         src="https://i.ibb.co/MCWSgfh/square.jpg"
         alt="Mohamad Moheb"
         style="width: 70%;">
- 
+
+    <div class="personalinfo">
       <p>
           <h1><u>Mohamad Moheb</u></h1>
           <h2><u>Personal Info:</u></h2>
@@ -57,12 +63,12 @@
           <br> Nationality: Lebanese
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
-          <br> Favorite Music Bands:
-          <br> <u><a href="https://www.youtube.com/user/muse" class="bands" target="_blank">Muse</a></u>
-          <br> <u><a href="https://www.youtube.com/user/Akon" class="bands" target="_blank">Akon</a></u>
-          <br> <u><a href="https://www.youtube.com/channel/UCX2_tsfS1lWaNg26UUuWrxA" class="bands" target="_blank">Greta Van Fleet</a></u>
-          <br> <u><a href="https://www.youtube.com/user/cagetheelephant" class="bands" target="_blank">Cage The Elephant</a></u>
-          <br> <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" class="bands" target="_blank">Red Hot Chili Peppers</a></u>
+          <br> Current Favorite Songs:
+          <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="bands" target="_blank">(Don't Fear) The Reaper</a></u>
+          <br>  <u><a href="https://www.youtube.com/user/Akon" class="bands" target="_blank">Akon</a></u>
+          <br>  <u><a href="https://www.youtube.com/channel/UCX2_tsfS1lWaNg26UUuWrxA" class="bands" target="_blank">Greta Van Fleet</a></u>
+          <br>  <u><a href="https://www.youtube.com/user/cagetheelephant" class="bands" target="_blank">Cage The Elephant</a></u>
+          <br>  <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" class="bands" target="_blank">Red Hot Chili Peppers</a></u>
           </b>
       </p>
 
