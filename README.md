@@ -30,7 +30,7 @@
     .personalinfo {
       color: black;
       line-height: 1.25
-      padding: 20px;
+      padding: 10px;
     }
 
     .currentfavoritesongs {
@@ -107,5 +107,3 @@
         <button type="submit">Email</button>
       </form>
     </div>
-  </body>
-</html>
