@@ -1,4 +1,6 @@
 <html>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
   <title> Personal Website</title>
   <style>
     .card {
@@ -19,8 +21,7 @@
 
     .circular--square {
       border-radius: 50%;
-      padding: 5px;
-      border-color: #212121;
+      padding: 20px;
     }
 
     .personalinfotitle {
@@ -37,6 +38,11 @@
     .currentfavoritesongs {
       color: #3700B3;
       line-height: 1.5
+    }
+
+    .links
+    {
+      border-radius: 1%;
     }
 
     body {
@@ -90,8 +96,9 @@
           <br>  <u><a href="https://www.youtube.com/watch?v=86_vnQc1oBE&ab_channel=GretaVanFleetGretaVanFleetOfficialArtistChannel" class="currentfavoritesongs" target="_blank">Greta Van Fleet - When The Curtain Falls</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="currentfavoritesongs" target="_blank">Blue Öyster Cult - (Don't Fear) The Reaper</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=8GAylAoRR2A&ab_channel=wearyoldman" class="currentfavoritesongs" target="_blank">‎‎</a></u>
-        </b>
+        </b> </div>
 
+    <div class=links>   
       <form action="https://www.instagram.com/m0edah0e/" method="get" target="_blank">
         <button type="submit">Instagram</button>
       </form>
@@ -107,4 +114,4 @@
       <form action="mailto:m0edah0e212@gmail.com" method="get" target="_blank">
         <button type="submit">Email</button>
       </form>
-    </div>
+    </div> 
