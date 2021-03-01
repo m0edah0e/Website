@@ -86,5 +86,3 @@
         <button type="submit">Email</button>
       </form>
     </div>
-  </body>
-</html>
