@@ -10,7 +10,7 @@
       margin: auto;
       text-align: center;
       font-family: arial;
-      background-color: grey;
+      background-color: rgb(148, 156, 161);
     }
 
     .name {
@@ -19,8 +19,8 @@
     }
 
     .circular--square {
-      margin-top: 10px;
       border-radius: 50%;
+      margin-top: 10px;  
     }
 
     .personalinfotitle {
@@ -35,7 +35,7 @@
     }
 
     .currentfavoritesongs {
-      color: #3700B3;
+      color: #000080;
       line-height: 1.5
     }
 
@@ -115,3 +115,5 @@
         <button type="submit">Email</button>
       </form>
     </div> 
+  </body>
+</html>
