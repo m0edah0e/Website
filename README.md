@@ -5,12 +5,12 @@
       border: double;
       border-radius: 1%;
       border-color: none;
-      box-shadow: 0 0px 50px 25px #ad72f7;
+      box-shadow: 0 0px 40px 15px #e6007E;
       max-width: 400px;
       margin: auto;
       text-align: center;
       font-family: arial;
-      background-color: #018786
+      background-color: grey;
     }
 
     .name {
@@ -19,8 +19,9 @@
     }
 
     .circular--square {
-      margin-top: 10px;
+      padding: 20px;
       border-radius: 50%;
+      border-color: #018786
     }
 
     .personalinfotitle {
