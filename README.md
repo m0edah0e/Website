@@ -10,7 +10,7 @@
       margin: auto;
       text-align: center;
       font-family: arial;
-      background-color: #b374b0
+      background-color: #018786
     }
 
     .name {
