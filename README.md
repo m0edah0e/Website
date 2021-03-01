@@ -30,7 +30,7 @@
     .personalinfo {
       color: black;
       line-height: 1.25
-      padding: 10px;
+      padding: 20px;
     }
 
     .currentfavoritesongs {
@@ -83,11 +83,11 @@
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
           <br> Current Favorite Songs:
-          <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="currentfavoritesongs" target="_blank">The Weeknd - False Alarm</a></u>
-          <br>  <u><a href="https://www.youtube.com/user/Akon" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - Encore</a></u>
-          <br>  <u><a href="https://www.youtube.com/channel/UCX2_tsfS1lWaNg26UUuWrxA" class="currentfavoritesongs" target="_blank">Greta Van Fleet - Black Smoke Rising</a></u>
-          <br>  <u><a href="https://www.youtube.com/user/cagetheelephant" class="currentfavoritesongs" target="_blank">Cage The Elephant - Cigarette Daydreams</a></u>
-          <br>  <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" class="currentfavoritesongs" target="_blank">Blue Oyster Cult - (Don't Fear) The Reaper</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=jBhbgZYz7pI&ab_channel=TheWeeknd-Topic" class="currentfavoritesongs" target="_blank">The Weeknd - False Alarm</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=63xPXEB4fjA&ab_channel=RedHotChiliPeppers-Topic" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - Encore</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=8cepUUKMp1g&ab_channel=GretaVanFleet-Topic" class="currentfavoritesongs" target="_blank">Greta Van Fleet - Black Smoke Rising</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=vAu4WIK-VfM&ab_channel=BrettVanderzanden" class="currentfavoritesongs" target="_blank">Cage The Elephant - Cigarette Daydreams</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="currentfavoritesongs" target="_blank">Blue Oyster Cult - (Don't Fear) The Reaper</a></u>
           <br> <u><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" class="currentfavoritesongs" target="_blank">‎‎</a></u>
         </b>
 
