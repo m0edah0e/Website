@@ -14,8 +14,8 @@
 
     .name {
       font-size: 40px;
-      color: black;
     }
+
     .circular--square {
       border-radius: 50%;
       padding: 10px;
@@ -24,11 +24,12 @@
     .personalinfotitle {
       color: black;
       font-size: 35px;
-      padding: 20px;
     }
+
     .personalinfo {
       color: black;
       line-height: 1.25
+      padding: 20px;
     }
 
     .currentfavoritesongs {
@@ -58,7 +59,6 @@
     }
   </style>
 
-
   <body>
     <div class="card">
       <img class="circular--square"
@@ -69,7 +69,7 @@
     <div class="name">
       Mohamad Moheb
     </div>
-    
+
     <div class="personalinfotitle">
       Personal Info:
     </div>
@@ -82,6 +82,7 @@
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
           <br> Current Favorite Songs:
+          </div>
           <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="currentfavoritesongs" target="_blank">The Weeknd - False Alarm</a></u>
           <br>  <u><a href="https://www.youtube.com/user/Akon" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - Encore</a></u>
           <br>  <u><a href="https://www.youtube.com/channel/UCX2_tsfS1lWaNg26UUuWrxA" class="currentfavoritesongs" target="_blank">Greta Van Fleet - Black Smoke Rising</a></u>
