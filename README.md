@@ -56,8 +56,9 @@
 
     <div class="personalinfo">
           <h1><u>Mohamad Moheb</u></h1>
-          <u>Personal Info:</u>
-          <b> Pronouns: He/Him
+          <u><b>Personal Info:</u>
+          <br>
+          <br> Pronouns: He/Him
           <br> Age: 18 (02/12/2002)
           <br> Nationality: Lebanese
           <br> SE Student @RHHS Saida
@@ -68,7 +69,7 @@
           <br>  <u><a href="https://www.youtube.com/channel/UCX2_tsfS1lWaNg26UUuWrxA" class="currentfavoritesongs" target="_blank">Greta Van Fleet - Black Smoke Rising</a></u>
           <br>  <u><a href="https://www.youtube.com/user/cagetheelephant" class="currentfavoritesongs" target="_blank">Cage The Elephant - Cigarette Daydreams</a></u>
           <br>  <u><a href="https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig" class="currentfavoritesongs" target="_blank">Blue Oyster Cult - (Don't Fear) The Reaper</a></u>
-          </b>
+        </b>
 
       <form action="https://github.com/m0edah0e" method="get" target="_blank">
         <button type="submit">Github</button>
