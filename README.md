@@ -19,7 +19,6 @@
     }
 
     .circular--square {
-      padding: 20px;
       border-radius: 50%;
       border-color: #018786
     }
