@@ -20,7 +20,7 @@
 
     .circular--square {
      border-radius: 50%;
-     margin-top: 5px;  
+     margin-top: 10px;  
     }
 
     .right{
