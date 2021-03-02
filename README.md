@@ -29,11 +29,13 @@
     }
 
     .personalinfotitle {
+      margin-top: 10px;
       color: black;
       font-size: 35px;
     }
 
     .personalinfo {
+      margin-top: 10px;
       color: black;
       line-height: 1.25
       padding: 10px;
