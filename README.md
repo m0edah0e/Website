@@ -83,7 +83,7 @@
     </div>
     
     <div class="right">
-        <h1><b>(I'm the one on the right)</b></h1>
+        <b>(I'm the one on the right)</b>
     </div>
 
     <div class="personalinfotitle">
