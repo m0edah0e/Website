@@ -40,7 +40,7 @@
     }
 
     .currentfavoritesongs {
-      color: #0366d6;
+      color: #000080;
       line-height: 1.5
     }
 
