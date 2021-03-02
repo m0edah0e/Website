@@ -23,6 +23,11 @@
       margin-top: 10px;  
     }
 
+    .right{
+      color: black;
+      font-size: 12px;
+    }
+
     .personalinfotitle {
       color: black;
       font-size: 35px;
@@ -76,6 +81,10 @@
     <div class="name">
       Mohamad Moheb
     </div>
+    
+    <div class="right">
+        <h1><b>(I'm the one on the right)</b></h1>
+    </div>
 
     <div class="personalinfotitle">
       Personal Info:
@@ -83,7 +92,7 @@
 
     <div class="personalinfo">
           <b>
-          <br><u>I'm the one on the right</u> 
+          <br><u></u> 
           <br> Pronouns: He/Him
           <br> Age: 18 (02/12/2002)
           <br> Nationality: Lebanese
