@@ -4,7 +4,7 @@
     .card {
       border: double;
       border-radius: 1%;
-      border-color: black;
+      border-color: none;
       box-shadow: 0 0px 40px 15px grey;
       max-width: 400px;
       margin: auto;
@@ -43,6 +43,11 @@
     .currentfavoritesongs {
       color: #000080;
       line-height: 1.5
+    }
+    
+    .githubrepos {
+      color: #black;
+      line-height: 2
     }
 
     .links
@@ -107,6 +112,13 @@
           <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="currentfavoritesongs" target="_blank">Blue Öyster Cult - (Don't Fear) The Reaper</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=8GAylAoRR2A&ab_channel=wearyoldman" class="currentfavoritesongs" target="_blank">‎‎</a></u>
         </b> </div>
+
+        <div class="githubrepos">
+        <b>Things im currently working on </b></div>
+          <a href=https://github.com/Falasteen-1948 target="_blank"><img align="center" src=https://avatars.githubusercontent.com/u/79527809?s=400&u=9100be3c51ca9c8801c8757043bf312ce5de3925&v=4 alt="m0edah0e" height="64" width="64" /></a>
+          <a href=https://github.com/Mazzika-Discord-Music-Bot target="_blank"><img align="center" src=https://avatars0.githubusercontent.com/u/77557099?s=400&u=c8354512f4d6d78098d8010a2dbc79a3baa510f5&v=4 alt="Mazzika Organization" height="64" width="64" /></a>
+        </p>
+          
 
     <div class=links>   
       <form action="https://www.instagram.com/m0edah0e/" method="get" target="_blank">
