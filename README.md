@@ -19,8 +19,8 @@
     }
 
     .circular--square {
-      border-radius: 50%;
-      margin-top: 10px;  
+     border-radius: 50%;
+     margin-top: 5px;  
     }
 
     .right{
@@ -29,16 +29,14 @@
     }
 
     .personalinfotitle {
-      margin-top: 10px;
       color: black;
       font-size: 35px;
     }
 
     .personalinfo {
-      margin-top: 10px;
       color: black;
       line-height: 1.25
-      padding: 10px;
+      padding: 20px;
     }
 
     .currentfavoritesongs {
@@ -101,7 +99,7 @@
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
           <br> Current Favorite Songs:
-          <br>  <u><a href="https://www.youtube.com/watch?v=CW5oGRx9CLM&ab_channel=TheWeekndVEVO" class="currentfavoritesongs" target="_blank">The Weeknd - False Alarm</a></u>
+          <br>  <u><a href="https://www.youtube.com/watch?v=XXYlFuWEuKI&ab_channel=TheWeekndVEVO" class="currentfavoritesongs" target="_blank">The Weeknd - Save Your Tears</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=lA-gGl6qihQ&ab_channel=CageTheElephantVEVO" class="currentfavoritesongs" target="_blank">Cage The Elephant - Trouble</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=YXdOAUKCc0k&ab_channel=RedHotChiliPeppers" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - By The Way</a></u>
           <br>  <u><a href="https://www.youtube.com/watch?v=86_vnQc1oBE&ab_channel=GretaVanFleetGretaVanFleetOfficialArtistChannel" class="currentfavoritesongs" target="_blank">Greta Van Fleet - When The Curtain Falls</a></u>
