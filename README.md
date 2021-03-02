@@ -36,7 +36,7 @@
     .personalinfo {
       color: black;
       line-height: 1.25
-      padding: 20px;
+      padding: 10px;
     }
 
     .currentfavoritesongs {
