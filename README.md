@@ -16,6 +16,7 @@
     .name {
       font-size: 40px;
       color: black;
+      padding: 20px;
     }
 
     .circular--square {
@@ -23,7 +24,7 @@
       margin-top: 10px;  
     }
 
-    .right{
+    .imtheoneontheright{
       color: black;
       font-size: 12px;
     }
@@ -36,7 +37,6 @@
     .personalinfo {
       color: black;
       line-height: 1.25
-      padding: 20px;
     }
 
     .currentfavoritesongs {
@@ -82,7 +82,7 @@
       Mohamad Moheb
     </div>
     
-    <div class="right">
+    <div class="imtheoneontheright">
         <b>(I'm the one on the right)</b>
     </div>
 
