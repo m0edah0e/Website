@@ -40,11 +40,6 @@
       line-height: 1.25
     }
 
-    .currentfavoritesongs {
-      color: #000080;
-      line-height: 1.5
-    }
-
     .links
     {
       border-radius: 1%;
@@ -99,15 +94,8 @@
           <br> Nationality: Lebanese
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
-          <br> Current Favorite Songs:
-          <br>  <u><a href="https://www.youtube.com/watch?v=lA-gGl6qihQ&ab_channel=CageTheElephantVEVO" class="currentfavoritesongs" target="_blank">Cage The Elephant - Trouble</a></u>
-          <br>  <u><a href="https://www.youtube.com/watch?v=XXYlFuWEuKI&ab_channel=TheWeekndVEVO" class="currentfavoritesongs" target="_blank">The Weeknd - Save Your Tears</a></u>
-          <br>  <u><a href="https://www.youtube.com/watch?v=86_vnQc1oBE&ab_channel=GretaVanFleetGretaVanFleetOfficialArtistChannel" class="currentfavoritesongs" target="_blank">Greta Van Fleet - When The Curtain Falls</a></u>
-          <br>  <u><a href="https://www.youtube.com/watch?v=Q0oIoR9mLwc&ab_channel=RedHotChiliPeppers" class="currentfavoritesongs" target="_blank">Red Hot Chili Peppers - Dark Necessities</a></u>
-          <br>  <u><a href="https://www.youtube.com/watch?v=Dy4HA3vUv2c&ab_channel=BlueOysterCultVEVO" class="currentfavoritesongs" target="_blank">Blue Öyster Cult - (Don't Fear) The Reaper</a></u>
-          <br>  <u><a href="https://www.youtube.com/watch?v=8GAylAoRR2A&ab_channel=wearyoldman" class="currentfavoritesongs" target="_blank">‎‎</a></u>
-        </b> </div>
-
+          <br> Favorite Music Genre: Alternative Rock / RNB 
+   
     <div class=links>   
       <form action="https://www.instagram.com/m0edah0e/" method="get" target="_blank">
         <button type="submit">Instagram</button>
