@@ -94,7 +94,7 @@
           <br> Nationality: Lebanese
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
-          <br> Favorite Music Genre: Alternative Rock / RNB 
+          <br> Favorite Music Genre: Alternative Rock / RnB 
           <br>
           <br>
           
