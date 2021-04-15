@@ -95,6 +95,9 @@
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
           <br> Favorite Music Genre: Alternative Rock / RNB 
+          <br>
+          <br>
+    </div>
    
     <div class=links>   
       <form action="https://www.instagram.com/m0edah0e/" method="get" target="_blank">
