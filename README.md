@@ -97,8 +97,7 @@
           <br> Favorite Music Genre: Alternative Rock / RNB 
           <br>
           <br>
-    </div>
-   
+          
     <div class=links>   
       <form action="https://www.instagram.com/m0edah0e/" method="get" target="_blank">
         <button type="submit">Instagram</button>
