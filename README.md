@@ -118,6 +118,9 @@
       <form action="https://github.com/m0edah0e" method="get" target="_blank">
         <button type="submit">Github</button>
       </form>
+      <form action="https://discord.gg/DhuVDnypyb" method="get" target="_blank">
+        <button type="submit">Discord Server</button>
+      </form>
       <form action="https://stackoverflow.com/users/14022101/m0edah0e" method="get" target="_blank">
         <button type="submit">StackOverflow</button>
       </form>
