@@ -94,6 +94,7 @@
           <br> Nationality: Lebanese
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
+          <br> Discord Tag: m0edah0e #0394
           <br> Favorite Music Genre: Alternative Rock / RnB 
           <br>
           <br>
