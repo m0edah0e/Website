@@ -35,12 +35,7 @@
       line-height: 1.25
     }
 
-    .links
-    {
-      border-radius: 1%;
-    }
-
-    body {
+    .body {
   background-color: whitesmoke;
   }
 
@@ -78,19 +73,18 @@
     </div>
 
     <div class="personalinfo">
-          <b>
-          <br><u></u> 
+          <br><b>
           <br> Pronouns: He/Him
           <br> Age: 18 (02/12/2002)
           <br> Nationality: Lebanese
           <br> SE Student @RHHS Saida
           <br> Phone Number: +961 71524293
           <br> Discord Tag: m0edah0e #0394
-          <br> Favorite Music Genre: Alternative Rock / RnB 
+
           <br>
           <br>
-          
-    <div class=links>   
+
+    <div>
       <form action="https://www.instagram.com/m0edah0e/" method="get" target="_blank">
         <button type="submit">Instagram</button>
       </form>
