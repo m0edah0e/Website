@@ -25,11 +25,6 @@
 
     }
 
-    .imtheoneontheright{
-      color: black;
-      font-size: 12px;
-    }
-
     .personalinfotitle {
       color: black;
       font-size: 35px;
@@ -76,10 +71,6 @@
 
     <div class="name">
       Mohamad Moheb
-    </div>
-    
-    <div class="imtheoneontheright">
-        <b>(I'm the one on the right)</b>
     </div>
 
     <div class="personalinfotitle">
