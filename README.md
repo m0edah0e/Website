@@ -70,7 +70,7 @@
   <body>
     <div class="card">
       <img class="circular--square"
-        src="https://i.ibb.co/wNXVmNv/Whats-App-Image-2021-03-01-at-8-11-23-PM.jpg" alt="Whats-App-Image-2021-03-01-at-8-11-23-PM"
+        src="https://i.ibb.co/VMF7nxn/pp.jpg" alt="Main Pic"
         alt="Mohamad Moheb"
         style="width: 70%;">
 
