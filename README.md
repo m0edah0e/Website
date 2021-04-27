@@ -9,7 +9,7 @@
       max-width: 400px;
       margin: auto;
       text-align: center;
-      font-family: arial;
+      font-family: Helvetica;
       background-color: rgb(148, 156, 161);
     }
 
@@ -43,8 +43,8 @@
       border: none;
       outline: 0;
       display: inline-block;
-      padding: 10px;
-      color: #ad72f7;
+      padding: 12.5px;
+      color: #ac68ff;
       background-color: #121212;
       text-align: center;
       cursor: pointer;
@@ -53,7 +53,7 @@
     }
     button:hover,
     a:hover {
-      opacity: 0.5;
+      opacity: 0.75;
     }
   </style>
 
