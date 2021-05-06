@@ -64,7 +64,9 @@
         style="width: 70%;">
 
         <div class="name">
-          Mohamad Moheb
+          Mohamad 
+          <br>
+          Moheb
         </div>
 
     <div class="personalinfotitle">
