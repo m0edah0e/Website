@@ -15,6 +15,7 @@
 
     .name {
       font-size: 40px;
+      font-family: Tahoma;
       color: black;
       padding: 20px;
     }
@@ -26,18 +27,16 @@
     }
 
     .personalinfotitle {
-      color: black;
       font-size: 35px;
+      font-family: Tahoma;
+      color: black;
     }
 
     .personalinfo {
       color: black;
+      font-family: Tahoma;
       line-height: 1.25
     }
-
-    .body {
-  background-color: whitesmoke;
-  }
 
     button {
       border: none;
@@ -64,9 +63,9 @@
         alt="Mohamad Moheb"
         style="width: 70%;">
 
-    <div class="name">
-      Mohamad Moheb
-    </div>
+        <div class="name">
+          Mohamad Moheb
+        </div>
 
     <div class="personalinfotitle">
       Personal Info:
