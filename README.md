@@ -43,7 +43,7 @@
       outline: 0;
       display: inline-block;
       padding: 12.5px;
-      color: #7900bf;
+      color: #aa17ff;
       background-color: #121212;
       text-align: center;
       cursor: pointer;
