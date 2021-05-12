@@ -1,5 +1,4 @@
-<style>
-  body {
+  .body {
     margin: 0;
     height: 100vh;
     display: flex;
@@ -8,7 +7,7 @@
     background-color: #333;
     }
 
-    ul {
+  ul {
     padding: 0;
     list-style-type: none;
     }
@@ -67,21 +66,21 @@
     li:hover span {
     transform: translateX(0.15em);
     }
-    button {
-        border: none;
-            display: inline-block;
-            padding: 12.5px;
-            color: whitesmoke;
-            background-color: transparent;
-            text-align: center;
-            cursor: pointer;
-            width: 100%;
-            font-size: 15px;
-            height:60px;
-            width:200px
-          }
-          button:hover,
-          a:hover {
-            opacity: 0.75;
-          }
-</style>
+
+button {
+  border: none;
+  display: inline-block;
+  padding: 12.5px;
+  color: whitesmoke;
+  background-color: transparent;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 15px;
+  height:60px;
+  width:200px
+  }
+button:hover,
+a:hover {
+opacity: 0.75;
+  }
