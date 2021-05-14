@@ -2,7 +2,7 @@
 
 :root {
   /* Base font size */
-  font-size: 4px;   
+  font-size: 4.25px;   
   
   /* Set neon color */
   --neon-text-color: rgb(248, 112, 0);
@@ -11,16 +11,14 @@
 
 h1 {
   margin: auto;
-  width: 50%;
+  width: 40%;
   font-size: 10rem;
   font-weight: 200;
   text-align: center;
   color: #fff;
-  padding: 4rem 6rem 4rem;
   border: 0.4rem solid #fff;
-  border-radius: 2rem;
-  text-transform: uppercase;
-  animation: flicker 6s infinite alternate; 
+  border-radius: 10rem;
+  animation: flicker 10s infinite alternate; 
 }
 
 h1::-moz-selection {
