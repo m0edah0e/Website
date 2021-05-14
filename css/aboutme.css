@@ -1,8 +1,8 @@
 body{background:#1D1F20;}
-#ct{height:150px; width:370px;border:1px solid #f1c40f;margin: 100px auto;text-align:center;position:relative;color:#fff;padding:15px;}
+#ct{height:150px; width:370px;border:1px solid rgb(248, 112, 0);margin: 100px auto;text-align:center;position:relative;color:#fff;padding:15px;}
 span{
   background:#1D1F20;
-  color:#f1c40f;
+  color:rgb(248, 112, 0);
   padding:0 10px;
   font-size:20px;
   position:relative; 
@@ -20,21 +20,21 @@ span{
 #left_top{
   top:-16px;
   left:-16px;
-  border-color:transparent transparent #f1c40f transparent;
+  border-color:transparent transparent rgb(248, 112, 0) transparent;
 }
 #right_top{
   top:-16px;
   right:-16px;
-  border-color:transparent transparent transparent #f1c40f;
+  border-color:transparent transparent transparent rgb(248, 112, 0);
 }
 #left_bottom{
   bottom:-16px;
   left:-16px;
-  border-color:transparent #f1c40f transparent transparent ;
+  border-color:transparent rgb(248, 112, 0) transparent transparent ;
 }
 #right_bottom{
   bottom:-16px;
   right:-16px;
-  border-color:#f1c40f transparent transparent transparent;
+  border-color:rgb(248, 112, 0) transparent transparent transparent;
 }
 p{padding-top:13px;font-size:18px}
