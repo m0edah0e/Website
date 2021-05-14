@@ -13,7 +13,7 @@
 	padding: 50px;
 	text-align: center;
 	font-family: neon;
-	color: #FB4264;
+	color: rgb(248, 112, 0);
 	font-size: 5vw;
 	line-height: 5vw;
 	text-shadow: 0 0 3vw #F40A35;
@@ -22,10 +22,10 @@
   .flux {
 	text-align: center;
 	font-family: neon;
-	color: #426DFB;
+	color: #08f;
 	font-size: 5vw;
 	line-height: 5vw;
-	text-shadow: 0 0 3vw #2356FF;
+	text-shadow: 0 0 3vw #08f;
   }
   
   .neon {
