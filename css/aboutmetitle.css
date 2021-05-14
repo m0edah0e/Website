@@ -49,7 +49,7 @@
   .flux {
 	animation: flux 2s linear infinite;
 	-moz-animation: flux 2s linear infinite;
-	-webkit-animation: flux 2s linear infinite;
+	-webkit-animation: flux 1s linear infinite;
 	-o-animation: flux 2s linear infinite;
   }
   
