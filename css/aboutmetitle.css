@@ -1,12 +1,3 @@
-  .body {
-	margin: 0;
-	padding: 0;
-	width: 100%;
-	height: 100%;
-	display: table;
-	background-color: rgb(56, 184, 24);
-  }
-  
   @font-face {
 	font-family: neon;
 	src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/707108/neon.ttf);
@@ -19,6 +10,7 @@
   }
   
   .neon {
+	text-align: center;
 	font-family: neon;
 	color: #FB4264;
 	font-size: 2.5vw;
@@ -27,6 +19,7 @@
   }
   
   .flux {
+	text-align: center;
 	font-family: neon;
 	color: #426DFB;
 	font-size: 2.5vw;
