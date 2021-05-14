@@ -51,7 +51,7 @@ li span {
   font-family: sans-serif;
   text-transform: capitalize;
   transform: translateX(calc(-0.15em * 3 - 0.08em * 2));
-  transition: 0.25s;
+  transition: 0.15s;
     }
 
 li:hover span {
