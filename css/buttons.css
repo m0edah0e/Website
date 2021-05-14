@@ -10,9 +10,9 @@ li {
   color: rgb(248, 112, 0);
   border-left: 1px solid;
   position: relative;
-  margin-top: 20px;
+  margin-top: 25px;
   cursor: pointer;
-  top: 300px;
+  top: 200px;
     }
 
 li::before,
@@ -66,7 +66,7 @@ button {
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 15px;
+  font-size: 20px;
   height:90px;
   width:300px }
 button:hover,a:hover {
