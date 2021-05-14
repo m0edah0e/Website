@@ -11,11 +11,13 @@
 
 h1 {
   margin: auto;
+  margin-top: 5%;
   width: 40%;
   font-size: 10rem;
   font-weight: 200;
   text-align: center;
   color: #fff;
+  padding: 35px;
   border: 0.4rem solid #fff;
   border-radius: 10rem;
   animation: flicker 10s infinite alternate; 
