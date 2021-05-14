@@ -4,6 +4,8 @@
 
 .text {
     position: fixed;
+    margin: auto;
+    text-align: center;
     top: 15%;
     right: 50%;
     transform: translate(50%,-50%);
