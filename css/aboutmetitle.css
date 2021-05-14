@@ -10,10 +10,11 @@
   }
   
   .neon {
+	padding: 50px;
 	text-align: center;
 	font-family: neon;
 	color: #FB4264;
-	font-size: 2.5vw;
+	font-size: 5vw;
 	line-height: 5vw;
 	text-shadow: 0 0 3vw #F40A35;
   }
@@ -22,7 +23,7 @@
 	text-align: center;
 	font-family: neon;
 	color: #426DFB;
-	font-size: 2.5vw;
+	font-size: 5vw;
 	line-height: 5vw;
 	text-shadow: 0 0 3vw #2356FF;
   }

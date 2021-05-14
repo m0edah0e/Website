@@ -20,7 +20,7 @@ h1 {
   padding: 35px;
   border: 0.4rem solid #fff;
   border-radius: 10rem;
-  animation: flicker 10s infinite alternate; 
+  animation: flicker 6s infinite alternate; 
 }
 
 h1::-moz-selection {
