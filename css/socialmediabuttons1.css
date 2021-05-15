@@ -98,3 +98,18 @@ ul li:nth-child(4):hover span{
 ul li:nth-child(5):hover span{
     background: #333 !important;
 }
+ul li:nth-child(6):hover span{
+  background: #1b2838 !important;
+}
+ul li:nth-child(7):hover span{
+  background: orange !important;
+}
+ul li:nth-child(8):hover span{
+  background: red !important;
+}
+ul li:nth-child(9):hover span{
+  background: #006192 !important;
+}
+ul li:nth-child(10):hover span{
+  background: #34A853 !important;
+}
