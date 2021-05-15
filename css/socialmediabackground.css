@@ -1,8 +1,5 @@
-body {
+.body {
   background-color: #333;
-  justify-content: center;
-  margin: 0;
-  overflow-x: hidden;
 }
 
 .bg {
