@@ -1,4 +1,4 @@
-  @font-face {
+@font-face {
 	font-family: neon;
 	src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/707108/neon.ttf);
   }
@@ -11,6 +11,8 @@
 	font-size: 5vw;
 	line-height: 20vw;
 	text-shadow: 0 0 3vw #F40A35;
+    margin-top: -20%;
+    margin-left: 25%;
   }
 
   .neon {
