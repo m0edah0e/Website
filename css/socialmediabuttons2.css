@@ -84,16 +84,16 @@ ul li:hover span:nth-child(2){
   opacity: .2;
 }
 ul li:nth-child(1):hover span{
-    background: #34A853 !important;
+    background: #1b2838 !important;
 }
 ul li:nth-child(2):hover span{
-    background: #34A853 !important;
+    background: orange !important;
 }
 ul li:nth-child(3):hover span{
-    background: #34A853 !important;
+    background: red !important;
 }
 ul li:nth-child(4):hover span{
-    background: #34A853 !important;
+    background: #006192 !important;
 }
 ul li:nth-child(5):hover span{
     background: #34A853 !important;
