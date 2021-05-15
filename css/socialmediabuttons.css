@@ -1,3 +1,4 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
 * {
   margin: 0;
   padding: 0;
@@ -22,8 +23,8 @@ ul {
 }
 
 ul li {
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   position: relative;
   background: #e59500;
   margin: 10px 0;
@@ -34,15 +35,12 @@ ul li {
 
 ul li .fa {
   position: absolute;
+  align-content: center;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 20px;
+  font-size: 35px;
   color: #fff;
-}
-
-ul li.facebook{
-  background: #3b5998;
 }
 
 ul li.twitter{
@@ -53,32 +51,76 @@ ul li.instagram{
   background: #bc2a8d;
 }
 
-ul li.google{
-  background: #dd4b39;
+ul li.facebook{
+  background: #4267B2;
 }
 
-ul li.whatsapp{
-  background: #4dc247;
+ul li.github{
+  background: #333;
 }
 
-ul li.facebook div.slider{
-  background: #627aac;
+ul li.stack-overflow{
+  background: #FF9900;
+}
+
+ul li.reddit{
+  background: #FF5700;
+}
+
+ul li.steam{
+  background: #2a475e;
+}
+
+ul li.medium{
+  background: #212121;
+}
+
+ul li.youtube{
+  background: #FF0000;
+}
+
+ul li.email{
+  background: #34A853;
 }
 
 ul li.twitter div.slider{
-  background: #7fd5f6;
+  background: #00aced;
 }
 
 ul li.instagram div.slider{
-  background: #dd94c6;
+  background: #bc2a8d;
 }
 
-ul li.google div.slider{
-  background: #eea59c;
+ul li.facebook div.slider{
+  background: #4267B2;
 }
 
-ul li.whatsapp div.slider{
-  background: #82d47e;
+ul li.github div.slider{
+  background: #333;
+}
+
+ul li.stack-overflow div.slider{
+  background: #FF9900;
+}
+
+ul li.reddit div.slider{
+  background: #FF5700;
+}
+
+ul li.steam div.slider{
+  background: #2a475e;
+}
+
+ul li.medium div.slider{
+  background: #212121;
+}
+
+ul li.youtube div.slider{
+  background: #FF0000;
+}
+
+ul li.email div.slider{
+  background: #34A853;
 }
 
 .slider {
@@ -87,18 +129,18 @@ ul li.whatsapp div.slider{
   top: 0;
   left: 51px;
   width: 0px;
-  height: 50px;
+  height: 75px;
   background: #eebb5c;
   border-radius: 3px;
   transition: all 0.3s 0.3s ease;
 }
 
 .slider p {
+  text-shadow: white 0px 0px 10px;
   font-family: arial;
-  text-transform: uppercase;
   font-size: 16px;
-  font-weight: 900;
-  color: #fff;
+  font-weight: bolder;
+  color: black;
   text-align: center;
   line-height: 50px;
   opacity: 0;
