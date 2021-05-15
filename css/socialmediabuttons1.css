@@ -4,6 +4,7 @@
   margin: 0px;
 }
 .body{
+  flex-wrap: wrap;
   display: flex;
   position: relative;
   align-items: center;
