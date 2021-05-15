@@ -10,10 +10,9 @@ ul {
     color: rgb(248, 112, 0);
     border-left: 1px solid;
     position: relative;
-    margin-top: 35px;
     cursor: pointer;
-    top: -750px;
-    left: 100px;
+    margin-top: -30%;
+    left: 3.33%;
       }
   
   li::before,
@@ -66,7 +65,6 @@ ul {
     background-color: transparent;
     text-align: center;
     cursor: pointer;
-    width: 100%;
     font-size: 30px;
     height:45px;
     width:150px }
