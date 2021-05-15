@@ -1,8 +1,7 @@
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
 * {
   padding: 0px;
-  margin: auto;
-  width: auto;
+  margin: 0px;
 }
  ul {
    position: relative;
@@ -49,7 +48,7 @@ ul li span{
   align-items: center;
   color: #fff;
   font-size: 30px !important;
-  transition: 1s ease-out;
+  transition: 1.5s ease-out;
 }
 ul li:hover span {
   z-index: 1000;
@@ -77,22 +76,22 @@ ul li:hover span:nth-child(2){
   opacity: .2;
 }
 ul li:nth-child(1):hover span{
-    background: #1DA1F2 !important;
+  background: #1DA1F2 !important;
 }
 ul li:nth-child(2):hover span{
-    background: #bc2a8d !important;
+  background: #bc2a8d !important;
 }
 ul li:nth-child(3):hover span{
-    background: #4267B2 !important;
+  background: #4267B2 !important;
 }
 ul li:nth-child(4):hover span{
-    background: #FF4500 !important;
+  background: #FF4500 !important;
 }
 ul li:nth-child(5):hover span{
-    background: #333 !important;
+  background: #333 !important;
 }
 ul li:nth-child(6):hover span{
-  background: #1b2838 !important;
+  background: #2a475e !important;
 }
 ul li:nth-child(7):hover span{
   background: orange !important;
