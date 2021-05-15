@@ -139,12 +139,13 @@ ul li.email div.slider{
   margin: auto;
   padding: 10px;
   font-family: Verdana;
-  font-size: 30px;
-  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  color: whitesmoke;
   text-align: center;
   line-height: 50px;
   opacity: 0;
-  transition: all 0.4s ease;
+  transition: all 0.2s ease;
 }
 
 ul li:hover .slider {
@@ -153,6 +154,6 @@ ul li:hover .slider {
 }
 
 ul li:hover .slider p {
-  opacity: 0.5;
+  opacity: 1;
   transition: all 0.1s 0.2s ease;
 }
