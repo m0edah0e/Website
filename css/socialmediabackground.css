@@ -5,6 +5,8 @@ body {
   top: 50%;
   left: 25%;
   align-items: center;
+  margin-left: auto;
+  margin-top: auto;
   }
 
   .bg {
