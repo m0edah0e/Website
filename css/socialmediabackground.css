@@ -1,12 +1,13 @@
 body {
-  background-color: #333;
+  background-color: #333;;
   position: relative;
-  display: flex;
-  top: 50%;
+  z-index: 2;
+  top: 25%;
   left: 25%;
-  align-items: center;
   margin-left: auto;
   margin-top: 25%;
+  height: 50%;
+  width: 100%;
   }
 
   .bg {
