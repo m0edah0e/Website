@@ -1,5 +1,5 @@
 .text {
-    position: fixed;
+    position: absolute;
     margin: auto;
     text-align: center;
     top: 15%;
