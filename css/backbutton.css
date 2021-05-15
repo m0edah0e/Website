@@ -9,7 +9,7 @@ ul {
     height: 1.5em;
     color: rgb(248, 112, 0);
     border-left: 1px solid;
-    position: relative;
+    position: absolute;
     cursor: pointer;
     margin-top: -30%;
     left: 3.33%;
@@ -39,7 +39,7 @@ ul {
       }
   
   li span {
-    position: relative;
+    position: absolute;
     height: 120%;
     top: -10%;
     box-sizing: border-box;
@@ -66,6 +66,7 @@ ul {
     text-align: center;
     cursor: pointer;
     font-size: 30px;
+    position: relative;
     height:45px;
     width:150px }
   button:hover,a:hover {
