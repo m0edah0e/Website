@@ -1,107 +1,116 @@
-@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
 * {
-  padding: 0px;
-  margin: 0px;
+  margin: 0;
+  padding: 0;
 }
- ul {
-   position: relative;
-   display: flex;
-   transform: rotate(deg) skew(25deg);
-   transform-style: preserve-3d;
-}
-ul li {
+
+body {
+  background: #30333A;
+  margin-top: 25%;
+  margin-left: -25%;
   position: relative;
+}
+
+.wrapper {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+}
+
+ul {
   list-style: none;
-  width: 60px;
-  height: 60px;
-  margin: 0px 20px;
 }
-ul li:before{
-  content: '';
+
+ul li {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  background: #e59500;
+  margin: 10px 0;
+  cursor: pointer;
+  border-radius: 3px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+ul li .fa {
   position: absolute;
-  bottom: -10px;
-  left: -5px;
-  width: 100%;
-  height: 10px;
-  background: #2a2a2a;
-  transform: skewX(-41deg);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  color: #fff;
 }
-ul li:after{
-  content: '';
-  position: absolute;
-  top:5px;
-  left: -9px;
-  width: 9px;
-  height: 100%;
-  background: #2a2a2a;
-  transform: skewY(-49deg);
+
+ul li.facebook{
+  background: #3b5998;
 }
-ul li span{
+
+ul li.twitter{
+  background: #00aced;
+}
+
+ul li.instagram{
+  background: #bc2a8d;
+}
+
+ul li.google{
+  background: #dd4b39;
+}
+
+ul li.whatsapp{
+  background: #4dc247;
+}
+
+ul li.facebook div.slider{
+  background: #627aac;
+}
+
+ul li.twitter div.slider{
+  background: #7fd5f6;
+}
+
+ul li.instagram div.slider{
+  background: #dd94c6;
+}
+
+ul li.google div.slider{
+  background: #eea59c;
+}
+
+ul li.whatsapp div.slider{
+  background: #82d47e;
+}
+
+.slider {
+  content: "";
   position: absolute;
   top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  display: flex !important;
-  background: #2a2a2a;
-  justify-content: center;
-  align-items: center;
+  left: 51px;
+  width: 0px;
+  height: 50px;
+  background: #eebb5c;
+  border-radius: 3px;
+  transition: all 0.3s 0.3s ease;
+}
+
+.slider p {
+  font-family: arial;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 900;
   color: #fff;
-  font-size: 30px !important;
-  transition: 1.5s ease-out;
+  text-align: center;
+  line-height: 50px;
+  opacity: 0;
+  transition: all 0.2s ease;
 }
-ul li:hover span {
-  z-index: 1000;
-  transition: .3s;
-  color: #fff;
-  box-shadow: -1px 1px 1px rgba(0, 0, 0, .5);
+
+ul li:hover .slider {
+  width: 180px;
+  transition: all 0.3s ease;
 }
-ul li:hover span:nth-child(5){
-  transform: translate(40px, -40px);
-  opacity: 1;
-}
-ul li:hover span:nth-child(4){
-  transform: translate(30px, -30px);
-  opacity: .8;
-}
-ul li:hover span:nth-child(3){
-  transform: translate(20px, -20px);
-  opacity: .6;
-}
-ul li:hover span:nth-child(2){
-  transform: translate(10px, -10px);
-  opacity: .4;
-}ul li:hover span:nth-child(1){
-  transform: translate(0px, 0px);
-  opacity: .2;
-}
-ul li:nth-child(1):hover span{
-  background: #1DA1F2 !important;
-}
-ul li:nth-child(2):hover span{
-  background: #bc2a8d !important;
-}
-ul li:nth-child(3):hover span{
-  background: #4267B2 !important;
-}
-ul li:nth-child(4):hover span{
-  background: #FF4500 !important;
-}
-ul li:nth-child(5):hover span{
-  background: #333 !important;
-}
-ul li:nth-child(6):hover span{
-  background: #2a475e !important;
-}
-ul li:nth-child(7):hover span{
-  background: orange !important;
-}
-ul li:nth-child(8):hover span{
-  background: red !important;
-}
-ul li:nth-child(9):hover span{
-  background: #006192 !important;
-}
-ul li:nth-child(10):hover span{
-  background: #34A853 !important;
+
+ul li:hover .slider p {
+  opacity: 0.5;
+  transition: all 0.1s 0.2s ease;
 }
