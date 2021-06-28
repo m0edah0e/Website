@@ -1,5 +1,6 @@
 .button{
   border: 2px solid lightblue;
+  color: lightblue;
   background: transparent;
   font-family: 'Roboto';
   font-size: 40px;
@@ -7,25 +8,31 @@
   border-width: thin;
   border-radius: 10px;
   margin: auto;
-  margin-bottom:25px;
-  transition: .3s;
+  margin-bottom:20px;
   text-align: center;
   line-height: 50%;
   display: inline-block;
-}
-
-.btn-group button {
-  color: lightblue; /* White text */
   cursor: pointer; /* Pointer/hand icon */
   width: 50%; /* Set a width if needed */
   display: block; /* Make the buttons appear below each other */
 }
 
-/* Add a background color on hover */
-.btn-group button:hover {
-  background-color: rgb(136, 72, 136);
+.btn-slide-left {
+  background: linear-gradient(to left, transparent 50%, lightblue 110%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: 0.4s;
+}
+.btn-slide-left:hover {
+  background-position: left;
 }
 
-.backbutton{
-  
+.btn-slide-right {
+  background: linear-gradient(to right, transparent 50%, lightblue 110%);
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: 0.4s;
+}
+.btn-slide-right:hover {
+  background-position: right bottom;
 }
