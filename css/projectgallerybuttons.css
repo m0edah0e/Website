@@ -1,0 +1,27 @@
+.button{
+    border: 2px solid lightblue;
+    background: transparent;
+    font-family: 'Roboto';
+    height: 50px;
+    border-width: thin;
+    font-size: 40px;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom:25px;
+    transition: .3s;
+    text-align: center;
+    line-height: 50%;
+    display: inline-block;
+  }
+
+  
+  .btn-group button {
+    color: lightblue; /* White text */
+    cursor: pointer; /* Pointer/hand icon */
+    display: block; /* Make the buttons appear below each other */
+  }
+
+  /* Add a background color on hover */
+  .btn-group button:hover {
+    background-color: rgb(136, 72, 136);
+  }
